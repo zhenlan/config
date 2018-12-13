@@ -1,3 +1,4 @@
 config:
   background:
     color: lightgreen
+  name: world
