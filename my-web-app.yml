@@ -1,0 +1,4 @@
+config:
+  background:
+    color: lightgreen
+  name: Spring Cloud with Config Server
